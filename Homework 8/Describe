@@ -1,0 +1,7 @@
+Describe the Homework 8:
+A classic problem in mathematics is the linear programming problem of finding the shortest route through a network of interconnected points.
+Applications include finding the shortest distance from one city to another, and finding the critical path in a project. Write Routes.1.cpp, to designand 
+test a class that represents a leg of a route between two adjacent cities.
+Lab7: Route.3
+Programmer: ChenYu Yang    ID:1670203
+Date: September 24,2018
