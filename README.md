@@ -1,4 +1,4 @@
-# Comsc200
+# Comsc200 Object Oriented Programming C++
 This course provides detailed coverage of the concepts and syntax of the C++ Language. Coverage includes inheritance, overloaded operators, overloaded default operators, virtual functions, memory management, files, streams, templates, and exceptions. CSU, UC
 
 # Homework 1 - Homework 6:
