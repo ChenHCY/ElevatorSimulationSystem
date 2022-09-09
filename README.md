@@ -26,9 +26,9 @@ I created 5 part class(h.file, cpp.file): the elevator, the rider, the floor, th
 
 The Result:
 
-● Implemented the C++ GUI data structure and build the Elevator Simulation System. 
+● Build and Design the Elevator Simulation System that simulation of the scheduling of two elevators within a building. 
 
-● Read, analyzed, and implemented people enter the elevator, or leave the elevator of the elevator move locus.
+● Analyzed, and implemented people on every floor entering the elevator, or leaving the elevator of the elevator move locus.
 
-● Successfully demonstrated the C++ GUI to build a complex image Simulation system
+● Successfully architect a complex image Simulation system through the use of C++ Gut and .net framework.
 
