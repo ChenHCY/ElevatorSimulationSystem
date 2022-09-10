@@ -18,7 +18,7 @@ test a class that represents a leg of a route between two adjacent cities.
 
 # Elevator Homework:
 
-Basic Elevator Implementation by used C++ GUI.
+Implementation and Design Elevator System by used C++ GUI.
 
 Approach:
 
